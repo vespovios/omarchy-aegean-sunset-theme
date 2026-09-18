@@ -1,23 +1,23 @@
-# Agean Sunset
+# Aegean Sunset
 
 A soft, dark theme for **Omarchy 4**, inspired by Greek summers.
 
 By [vespovios](https://github.com/vespovios) · [MotoTwin Adventures](https://mototwinadventures.com)
 
-![Agean Sunset desktop preview](preview.png)
+![Aegean Sunset desktop preview](preview.png)
 
 Muted dusk-blue surfaces, soft sandy text, pastel sea blues and gentle sunset-gold accents. The sole wallpaper is a Santorini ink sketch with watercolour highlights.
 
 ## Install
 
 ```bash
-omarchy theme install https://github.com/vespovios/omarchy-agean-sunset-theme
+omarchy theme install https://github.com/vespovios/omarchy-aegean-sunset-theme
 ```
 
 Select it again at any time:
 
 ```bash
-omarchy theme set "Agean Sunset"
+omarchy theme set "Aegean Sunset"
 ```
 
 ## Palette
