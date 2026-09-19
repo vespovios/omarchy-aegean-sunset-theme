@@ -6,7 +6,7 @@ By [vespovios](https://github.com/vespovios) · [MotoTwin Adventures](https://mo
 
 ![Aegean Sunset desktop preview](preview.png)
 
-Muted dusk-blue surfaces, soft sandy text, pastel sea blues and gentle sunset-gold accents. The sole wallpaper is a Santorini ink sketch with watercolour highlights.
+Muted dusk-blue surfaces, soft sandy text, pastel sea blues and gentle sunset-gold accents. Two wallpapers are included: the original Santorini photograph and an ink sketch with watercolour highlights.
 
 ## Install
 
@@ -18,6 +18,12 @@ Select it again at any time:
 
 ```bash
 omarchy theme set "Aegean Sunset"
+```
+
+Cycle between the included wallpapers with:
+
+```bash
+omarchy theme bg next
 ```
 
 ## Palette
@@ -37,7 +43,7 @@ Omarchy generates supported application themes from `colors.toml`. Blue Yaru ico
 
 Original photo by [Matt Artz](https://unsplash.com/@mattartz?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/flag-of-greece-waving-at-pole-at-santorino-greece-KTwhQQf1yus?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
 
-The wallpaper is an AI-generated ink-and-watercolour interpretation of Matt Artz's original Santorini photograph. The original photograph is not bundled. No endorsement by the photographer is implied.
+`backgrounds/santorini-ellas.jpg` is Matt Artz's original Santorini photograph, included under the Unsplash License. `backgrounds/santorini-ink-watercolour.png` is an AI-generated ink-and-watercolour interpretation of that photograph. No endorsement by the photographer is implied.
 
 ## License
 
